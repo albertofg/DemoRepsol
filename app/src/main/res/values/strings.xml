@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Demo Repsol</string>
+    <string name="impacto">Simular Impacto</string>
+    <string name="viento">Simular fuerte viento</string>
+    <string name="contaminacion">Simular contaminación</string>
+    <string name="incendio">Simular Incendio</string>
+    <string name="stock">Simular falta stock</string>
+    <string name="exit">Salir</string>
+    <string name="gps_advice_tittle">Aviso</string>
+    <string name="gps_advice_text">Debe activar el GPS</string>
+    <string name="vpn_advice_text">Recuerde Activar la VPN para conectarse al MQTT</string>
+    <string name="but_accept">OK</string>
+    <string name="but_cancel">CANCELAR</string>
+    <string name="info">Información</string>
+    <string name="info_text">Sumulación enviada correctamente</string>
+</resources>
